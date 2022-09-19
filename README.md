@@ -1,1 +1,1 @@
-# informatika1
+# materi kuliah dan praktikum kelas informatika 1
